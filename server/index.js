@@ -9,7 +9,7 @@ const server = new McpServer({
     version: "1.0.0"
 });
 
-// ... set up server resources, tools, and prompts ...
+
 
 const app = express();
 
